@@ -4,7 +4,7 @@
 
 > **La place de marché française dédiée aux pièces moto d'occasion**
 
-🌐 **Site en production** : [piecemotooccasion.eu](https://piecemotooccasion.eu)
+🌐 **Site en production**  
 
 ---
 
