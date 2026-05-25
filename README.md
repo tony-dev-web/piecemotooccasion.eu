@@ -1,3 +1,5 @@
+<img src="https://github.com/tony-dev-web/piecemotooccasion.eu/blob/main/logo-piece-moto-occasion.jpg" alt="piece moto occasion" with="267" height="267">
+
 # 🏍️ Pièce Moto Occasion — La marketplace des motards
 
 > **La place de marché française dédiée aux pièces moto d'occasion**
