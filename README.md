@@ -74,8 +74,8 @@ Développement actif : nouvelles fonctionnalités et améliorations continues.
 
 **Tony** — Développeur Full Stack Python
 
-- 🐙 GitHub : [@tonydevweb](https://github.com/tonydevweb)
-- 🌐 Projet en ligne : [piece moto occasion](https://piecemotooccasion.eu)
+-  GitHub : [@tonydevweb](https://github.com/tony-dev-web)
+-  Projet en ligne : [piece moto occasion](https://piecemotooccasion.eu)
 
 ---
 
