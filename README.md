@@ -62,7 +62,7 @@ La plateforme repose sur une architecture pensée pour le **référencement natu
 
 ## 🚧 État du projet
 
-✅ **En production** — la plateforme est actuellement en ligne et accessible à [piecemotooccasion.eu](https://piecemotooccasion.eu).
+✅ **En production** — la plateforme est actuellement en ligne
 
 Développement actif : nouvelles fonctionnalités et améliorations continues.
 
@@ -73,7 +73,7 @@ Développement actif : nouvelles fonctionnalités et améliorations continues.
 **Tony** — Développeur Full Stack Python
 
 - 🐙 GitHub : [@tonydevweb](https://github.com/tonydevweb)
-- 🌐 Projet en ligne : [piecemotooccasion.eu](https://piecemotooccasion.eu)
+- 🌐 Projet en ligne : [piece moto occasion](https://piecemotooccasion.eu)
 
 ---
 
