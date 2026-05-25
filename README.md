@@ -60,15 +60,6 @@ La plateforme repose sur une architecture pensée pour le **référencement natu
 
 ---
 
-## 📸 Aperçu
-
-> _Captures d'écran à venir._
-
-<!-- Pensez à ajouter ici :
-![Page d'accueil](docs/screenshots/home.png)
-
----
-
 ## 🚧 État du projet
 
 ✅ **En production** — la plateforme est actuellement en ligne et accessible à [piecemotooccasion.eu](https://piecemotooccasion.eu).
